@@ -1,0 +1,16 @@
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nov_Admin\source\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Users\Nov_Admin\source\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nov_Admin\source\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\Nov_Admin\source\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\Nov_Admin\source\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nov_Admin\source\EmployeeDataAccess\bin\Debug\System.Net.Http.Formatting.xml
