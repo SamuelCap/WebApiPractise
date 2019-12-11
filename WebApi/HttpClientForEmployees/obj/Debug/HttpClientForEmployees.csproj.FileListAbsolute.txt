@@ -1,0 +1,11 @@
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\bin\Debug\HttpClientForEmployees.exe.config
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\bin\Debug\HttpClientForEmployees.exe
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\bin\Debug\HttpClientForEmployees.pdb
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\obj\Debug\HttpClientForEmployees.csprojAssemblyReference.cache
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\obj\Debug\HttpClientForEmployees.csproj.CopyComplete
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\obj\Debug\HttpClientForEmployees.exe
+C:\Users\Nov_Admin\source\WebApi\HttpClientForEmployees\obj\Debug\HttpClientForEmployees.pdb
